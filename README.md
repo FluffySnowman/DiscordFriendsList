@@ -31,7 +31,23 @@ Once you have opened this file, you can view your friends list.
 
 # Explanation of the json file:
 
+![jsonfile](/img/jsonfile.png)
 
+The First line `id` is the user ID of the account on your friends list. This value never changes so if someone's @ (tag) is changed and you can't find them, use this number.
+
+The Second line `username` is the first part of the user's tag (@) and can be used to add friends in the add friends tab on discord.
+
+The Third line `avatar` is the profile picture of the user.
+
+The Fourth line is not of any use (to me at least).
+
+The Fifth line `discriminator` is the number of the user's `#` which is after their `username` to identify the user. 
+
+The Sixth line is also of no use (to me at least).
+
+<hr>
+
+Thanks for using this program. Make sure to star the repository and share it with anyone who wants a list of their friends on discord.
 
 
 
