@@ -9,6 +9,8 @@ read -p "Press [ENTER] to start program" null
 
 cat user.json | jq '.relationships[] | {user}' > friends.json
 
+echo ""
+echo ""
 echo "Friends list has been saved to this folder with a .json format"
 echo "Thanks for using this program. Make sure to check out my other programs on https://github.com/FluffySnowman"
 
