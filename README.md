@@ -47,7 +47,7 @@ The Sixth line is also of no use (to me at least).
 
 <hr>
 
-Thanks for using this program. Make sure to star the repository and share it with anyone who wants a list of their friends on discord.
+Thanks for using this program. Make sure to star the repository and share it with anyone who wants a list of their friends on discord or anyone who's account has gotten banned and wishes to add their friends back (only if they have their discord data package with them otherwise it is not possible)
 
 
 
